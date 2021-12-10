@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "singo-1",
+  "description": "singo-1",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/luuuooo5/singo-1",
+  "repository": "https://github.com/luuuooo5/singo-1",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
